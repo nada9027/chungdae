@@ -1,0 +1,5 @@
+dstreamlit
+pandas
+requests
+matplotlib
+seaborn
